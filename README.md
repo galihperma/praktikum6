@@ -14,3 +14,7 @@ Program sederhana operasi kalkulator (penjumlahan, pengurangan, perkalian, dan p
     -Jika input 3 maka hitung hasil=a*b dan cetak hasilnya.
     -Jika input 4 maka hitung hasil=a/b dan cetak hasilnya.
     -Program end.
+
+![sslatihan1](https://user-images.githubusercontent.com/44311815/48963763-86a13700-ef4e-11e8-9fd6-add94ad7acc0.png)
+![sslatihan2](https://user-images.githubusercontent.com/44311815/48963803-a2f1a380-ef4f-11e8-83aa-d5247f84f0e5.png)
+![sslatihan3](https://user-images.githubusercontent.com/44311815/48963808-cd436100-ef4f-11e8-8e83-695092faa30c.png)
